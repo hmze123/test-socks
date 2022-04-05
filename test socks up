@@ -1,12 +1,16 @@
 {
 
-"newVersion": "1.0",
+"newVersion": "2.1.0",
 
-"apkUrl": "",
+"apkUrl": "http://www.mediafire.com/file/9rltqtl00i0ej09/TEST_SOCKS_2.1.0.apk",
 
 "versionNotes":"New Apk Update
 
 📌 Fixed Ads Bug 
+
+📌 Fixed server & payload
+
+📌 add DNSTT
 
 📌 Less Ads Showing
 
